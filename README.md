@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rapheal555
+- 👋 Hi, I’m @Rapheal555, a FullStack Developer with 4 years experience in Reactjs, Nextjs, Html, CSS, Javascript, etc.
 - 👀 I’m interested in Web Development(Frontend) job
-- 🌱 I’m currently learning React-js, React-Redux
+- 🌱 I’m currently learning DotNet core and Angular
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me (Whatsapp/Call +2348105958556)
 
