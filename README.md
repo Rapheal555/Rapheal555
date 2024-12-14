@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rapheal555, a FullStack Developer with 5 years of experience in Reactjs, Nextjs, HTML, CSS, Javascript, DotNet, C#, DotNet MAUI, DotNet Core, Angular, TypeScript, React Native, etc.
+- 👋 Hi, I’m @Rapheal555, a FullStack Developer with 5 years of experience in Reactjs, Nextjs, Flutter, HTML, CSS, Javascript, DotNet, C#, DotNet MAUI, DotNet Core, Angular, TypeScript, React Native, etc.
 - 👀 I’m interested in Web Development(Frontend & Backend), Desktop App Development and Mobile App Development job
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on 
